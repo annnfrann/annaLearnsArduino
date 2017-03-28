@@ -1,5 +1,5 @@
 
-int  red = 13;
+int red = 13;
 int yellow = 12;
 int green = 11;
 
@@ -29,4 +29,3 @@ void loop() {
   digitalWrite(green, LOW);
   delay(10);
 }
-
